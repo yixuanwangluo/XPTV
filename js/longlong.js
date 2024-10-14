@@ -20,33 +20,39 @@ const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 
 const appConfig = {
     ver: 1,
-    title: '木偶',
-    site: 'http://www.mogg.top',
+    title: '龙龙',
+    site: 'http://wanou.xn--yi7aa.top:3108/',
     // 定義分類
     tabs: [
         // name 為分類名，ext 可以傳入任意參數由 getCards 接收
         {
-            name: '電影',
+            name: '电影',
             ext: {
                 id: 1,
             },
         },
         {
-            name: '劇集',
+            name: '剧集',
             ext: {
                 id: 2,
             },
         },
         {
-            name: '動漫',
+            name: '综艺',
             ext: {
                 id: 3,
             },
         },
-        {
-            name: '紀錄片',
+         {
+            name: '动漫',
             ext: {
                 id: 4,
+            },
+        },
+        {
+            name: '短剧',
+            ext: {
+                id: 5,
             },
         },
     ],
