@@ -1,24 +1,18 @@
 {
     "sites": [
-        
-        { 
-            "name": "玩偶哥哥 | PAN", 
-            "type": 3, 
-            "api": "csp_WoGG" 
-        },
-       
+    
         {
-            "name": "木偶 | PAN",
+            "name": "龙龙 | PAN",
             "type": 3,
-            "api": "csp_muou",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/muou.js"
+            "api": "csp_longlong",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/yixuanwangluo/XPTV/refs/heads/main/js/longlong.js"
         },
       
         {
-             "name": "小米 | PAN",
-            "type": 3,
-            "api": "csp_mihdr",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/mihdr.js"
+             "name": "龙哥 | PAN", 
+            "type": 3, 
+            "api": "csp_WoGG" 
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/yixuanwangluo/XPTV/refs/heads/main/js/longlong.js"
         },
         }
     ]
